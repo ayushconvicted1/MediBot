@@ -1,1 +1,1 @@
-export const BaseURL = "https://medibotbackend-bb2q.onrender.com/api/";
+export const BaseURL = "http://192.168.1.41:5000/api/";
